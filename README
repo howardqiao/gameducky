@@ -1,0 +1,3 @@
+git clone https://github.com/howardqiao/gameducky.git --depth 1
+cd gameducky
+sudo ./setup.sh
