@@ -35,7 +35,7 @@ DEBUG = False
 BOUNCE_TIME = 0.01 # Debounce time in seconds
 
 BUTTON_A = 12
-BUTTON_B = 6
+BUTTON_B = 5
 BUTTON_X = 16
 BUTTON_Y = 13
 SELECT   = 20
